@@ -6,3 +6,4 @@ this vestion include :
 - full reporting of change to BOX eedomus
 - mini web server on SonOff to change it manualy
 - accept change from BOX to son off
+- Tested with sonoff V1.0 and sonoff V1.1
