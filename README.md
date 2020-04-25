@@ -5,5 +5,5 @@ this sketch is for 100% compatibility SonOff with ESPEEDOMUS as Philippe Rochett
 this vestion include :
 - full reporting of change to BOX eedomus
 - mini web server on SonOff to change it manualy
-- accept change from BOX to son off
+- accept change from BOX to sonoff
 - Tested with sonoff V1.0 and sonoff V1.1
